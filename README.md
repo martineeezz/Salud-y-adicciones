@@ -115,6 +115,7 @@ Salud y adicciones
     
     </style>
 
+
     <section id="inicio">
         <h2>Introducción</h2>
         <p>En esta página web nos encargamos de atender la salud física y mental de cualquier paciente, ya sea con problemas psicológicos, de drogas, alcoholismo, estrés, etc. 
@@ -185,44 +186,6 @@ Salud y adicciones
             </section>
             <h1>Cuestionario de Autoevaluación: Prevención de Drogas y Salud Mental</h1>
 
-<form action="#" method="post">
-  
-  <fieldset>
-    <legend>Pregunta 1</legend>
-    <label for="pregunta1">¿Estás informado sobre los riesgos asociados al consumo de drogas?</label><br>
-    <input type="radio" id="pregunta1a" name="pregunta1" value="si">
-    <label for="pregunta1a">Sí</label><br>
-    <input type="radio" id="pregunta1b" name="pregunta1" value="no">
-    <label for="pregunta1b">No</label><br>
-  </fieldset>
-  
-  <fieldset>
-    <legend>Pregunta 2</legend>
-    <label for="pregunta2">¿Realizas actividades para cuidar tu salud mental, como ejercicio o meditación?</label><br>
-    <input type="radio" id="pregunta2a" name="pregunta2" value="si">
-    <label for="pregunta2a">Sí</label><br>
-    <input type="radio" id="pregunta2b" name="pregunta2" value="no">
-    <label for="pregunta2b">No</label><br>
-  </fieldset>
-  
-  <fieldset>
-    <legend>Pregunta 3</legend>
-    <label for="pregunta3">¿Conoces a alguien que esté luchando contra la adicción a las drogas?</label><br>
-    <input type="radio" id="pregunta3a" name="pregunta3" value="si">
-    <label for="pregunta3a">Sí</label><br>
-    <input type="radio" id="pregunta3b" name="pregunta3" value="no">
-    <label for="pregunta3b">No</label><br>
-  </fieldset>
-  
-  <fieldset>
-    <legend>Pregunta 4</legend>
-    <label for="pregunta4">¿Te sientes cómodo buscando ayuda profesional si la necesitas?</label><br>
-    <input type="radio" id="pregunta4a" name="pregunta4" value="si">
-    <label for="pregunta4a">Sí</label><br>
-    <input type="radio" id="pregunta4b" name="pregunta4" value="no">
-    <label for="pregunta4b">No</label><br>
-  </fieldset>
-  
  
     <form action="guardar_datos.php" method="POST">
         <label for="nombre">Nombre:</label>
@@ -264,11 +227,7 @@ Salud y adicciones
             </script>
             </body>
             </html>
-<style>
-                .hidden {
-                  display: none;
-                }
-              </style>
+
               </head>
               <body>
               <h1>Mostrar u ocultar información</h1>
@@ -302,11 +261,7 @@ Salud y adicciones
                 }
               </script>
               </body>
-</section>
-    <head>
-        <title>Adicciones</title>
-        </head>
-        <body>
+
         
         <h1>Información sobre las adicciones</h1>
         
