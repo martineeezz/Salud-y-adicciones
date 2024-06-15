@@ -1,23 +1,5 @@
 
-<html>
-<html lang="es">
-<head>
-<img>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salud y Drogas
-    </title>
-    <link rel="stylesheet" href="stilo.css">
-    <title>Política de privacidad</title>
-    <style>
-        body{
-            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-            background-color: #ffffff;
-            margin: 0;
-            padding: 0;
-            color: #000000;
-            text-align: center;
-        }
+Salud y adicciones
 
         header {
             background-color: #20b2aa;
